@@ -25,7 +25,7 @@ import com.vmware.vim25.mo.VirtualMachine;
  * Date: 03-01-2015
  */
 
-public class Hw1_097_Cmpe283_Neha {
+public class GuestVMInfo {
 
 	public static void main(String[] args) throws Exception {
 		ServiceInstance sInst = null;
